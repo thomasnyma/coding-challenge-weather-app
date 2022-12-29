@@ -3,9 +3,5 @@ export default {
   theme: {
     extend: {},
   },
-  purge: ['./index.html', './src/**/*.{svelte,js,ts}'],
-  variants: {
-    extend: {},
-  },
-  darkMode: 'media',
+  content: ['./index.html', './src/**/*.{svelte,js,ts}'],
 };
