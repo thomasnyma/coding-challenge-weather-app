@@ -2,5 +2,7 @@
   
 </script>
 
-<h2>Welcome to the awesome weather app</h2>
-<span>Built with Svelte 💕</span>
+<div>
+    <h2>Welcome to the awesome inflation rate app</h2>
+    <span>Built with Svelte 💕</span>
+</div>
